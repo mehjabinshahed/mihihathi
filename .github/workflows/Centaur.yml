@@ -28,5 +28,5 @@ jobs:
 
     # Runs a set of commands using the runners shell
     - name: Run a multi-line script
-      run: | was programmed to write not to pull the trigger 
+      run: | was programmed to write not to pull the trigger, 
 Around me you will always read: not to pull the trigger. 
